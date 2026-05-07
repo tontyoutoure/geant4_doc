@@ -1,1 +1,3 @@
-LLM友好的geant4文档。格式为`.md`，从官方的epub转化清洗而来。转化需要`pandoc`，清洗需要Python（新一点就行）。转化和清洗的脚本位于`scripts`目录。目前包含了v11.4。
+LLM-friendly Geant4 documentation. Formatted in `.md`, this content has been converted and cleaned from the official EPUB source. Both internal and external links have been removed, while tables and mathematical formulas have been processed into a more native format.
+
+The conversion process requires `pandoc`, and the cleaning process requires Python (any recent version will suffice). The scripts for both conversion and cleaning are located in the `scripts` directory. Currently, version 11.4 is included.
